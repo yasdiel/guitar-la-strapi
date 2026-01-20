@@ -28,6 +28,10 @@
       "allowedTypes": [
         "images"
       ]
+    },
+    "url": {
+      "type": "uid",
+      "targetField": "nombre"
     }
   }
 }
